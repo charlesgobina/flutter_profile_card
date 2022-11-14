@@ -1,0 +1,4 @@
+#Fri Nov 11 14:30:43 WAT 2022
+base.0=/home/charlie/Desktop/Odin/tzone/time_zone/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
